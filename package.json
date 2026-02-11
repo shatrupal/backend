@@ -2,6 +2,9 @@
   "name": "pal-brothers-bff",
   "version": "1.0.0",
   "description": "Pal Brothers BFF API - Node/Express, MongoDB",
+  "engines": {
+    "node": ">=18"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
